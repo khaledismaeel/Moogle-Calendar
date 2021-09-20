@@ -9,7 +9,8 @@ Moogle Calendar is a web application that helps students manage their deadlines 
 
 - Clone the repo through the link `git@github.com:goar5670/Moogle-Calendar.git`
 - Navigate to `/app` directory
-- run `yarn start` in command line
+- run `yarn` in command line to install the project
+- run `yarn start` to start
 ## Contributors
 * Mahmoud Mohamed (goar5670)
 * Khaled Ahmed (Ex-0)
